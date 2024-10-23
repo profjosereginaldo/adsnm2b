@@ -1,5 +1,6 @@
 import { useForm } from "react-hook-form";
 import InputNome from "../components/InputNome";
+import InputTelefone from "../components/InputTelefone";
 
 function Formulario(props) {
   const {
